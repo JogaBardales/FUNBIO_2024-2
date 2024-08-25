@@ -1,2 +1,2 @@
-# FUNBIO_2024-2
-
+# Introducción
+## 1. Definicion de Open Hardware
